@@ -1,0 +1,71 @@
+body{
+background-image: url("background.jpg");
+background-size: cover;
+font-family: serif;
+}
+
+.contenitore{
+  width: 60%;
+  border-radius: 10px;
+  background-color: rgba(0, 0,0, 0.5);
+  margin: auto;
+}
+
+header{
+  text-align: center;
+  color: #23fe23;
+}
+
+.logo{
+  width: 200px;
+  margin-top: 7%;
+}
+
+.menu{
+  background-color: #23fe23;
+  text-align: center;
+  width: 80%;
+  margin:auto;
+  padding: 3px ;
+}
+
+button{
+  font-size: 8px;
+}
+
+.monopattini{
+  width: 80%;
+  text-align: left;
+  color:white;
+  margin: auto;
+}
+
+span{
+  display: block;
+  font-size: 12px;
+  padding: 2px;
+}
+
+.titolo{
+  font-size: 20px;
+}
+
+.carica{
+  padding:10px;
+  border-radius: 3px;
+}
+
+.gino22{
+  width: 30%;
+  background-color: orange;
+}
+
+.mike24{
+  width: 60%;
+  background-color: #23fe23;
+}
+
+.fede154{
+  width: 15%;
+  background-color: red;
+}
